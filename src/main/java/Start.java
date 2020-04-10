@@ -165,6 +165,7 @@ public class Start {
 
         timeStamp.getEndTime();
 
+        System.out.println("git commit test");
 
     }
 
