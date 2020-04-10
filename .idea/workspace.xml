@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eb103ab-da9e-4e32-ae10-143b2b5b6d24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Start.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,12 +103,24 @@
       <workItem from="1584962549378" duration="1234000" />
       <workItem from="1584963827655" duration="11000" />
       <workItem from="1586493228295" duration="25000" />
-      <workItem from="1586493485425" duration="505000" />
+      <workItem from="1586493485425" duration="577000" />
     </task>
+    <task id="LOCAL-00001" summary="idea commit message">
+      <created>1586494054265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586494054265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea commit message" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea commit message" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2356" y="109" width="1000" height="839" key="#Project_Structure" timestamp="1586493496255">
@@ -118,6 +128,10 @@
     </state>
     <state x="2356" y="109" key="#Project_Structure/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586493496255" />
     <state x="488" y="133" width="1000" height="839" key="#Project_Structure/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1583740506197" />
+    <state x="2274" y="62" width="1059" height="954" key="CommitChangelistDialog2" timestamp="1586494054077">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2274" y="62" width="1059" height="954" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586494054077" />
     <state x="2603" y="234" width="524" height="594" key="FileChooserDialogImpl" timestamp="1586493520785">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
