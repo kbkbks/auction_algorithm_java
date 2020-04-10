@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/AuctionAlgorithm.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ConstValue.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Robot.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Start.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/TaskTemplate.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Taskpoint.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/TimeStamp.java" charset="GB2312" />
+  </component>
+</project>
